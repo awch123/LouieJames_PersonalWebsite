@@ -5,17 +5,17 @@ body{
 	
 #main{
 	background-color: 5f5f5f;
-	margin: -7px 80px 0px 80px;	
+	margin: 21px 80px 0px 80px;	
 	height: 3000px;
 }
 
-#main1{
-	
-	background-color:white;
-	text-decoration: none;
-	text-transform: none;
-	
-	
+#prof{
+	position: absolute;
+	z-index: 1;
+	bottom: 90px;
+}
+#cover{
+	position: absolute;
 }
 
 #header{
@@ -25,11 +25,10 @@ body{
 	background-color: skyblue;
 	position: fixed;
 	text-position: center;
-	margin: -1px 0px -1000px 0px;
+	margin-top: -21px;
+	margin-left: 80px;
 	position: center;
 	padding: 10px 0px 0px 0px;
-	
-	
 }
 
 #headerli{
@@ -40,8 +39,23 @@ body{
 	
 }
 
+#main1{
+	
+	
+	text-decoration: none;
+	text-transform: none;
+	
+	
+}
+
+#main2{
+	
+}
+
+
+
 h3{
-	color: white;
+	color: blue;
 	
 }
 
