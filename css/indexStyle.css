@@ -29,15 +29,27 @@ body{
 	position: center;
 	padding: 10px 0px 0px 0px;
 	
+	
 }
 
-li{
+#headerli{
+	
 	display: inline;
 	margin-left: 25px;
+	text-decoration: none;
 	
 }
 
 h3{
-	color: blue;
+	color: white;
 	
+}
+
+a:link{
+	text-decoration: none;
+	color: white;
+
+}
+a:hover{
+	color: black;
 }
