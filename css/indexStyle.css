@@ -22,7 +22,7 @@ body{
 	color: black;
 	width: 1111px;
 	height: 30px;
-	background-color: darkblue;
+	background-color: 102660;
 	position: fixed;
 	text-position: center;
 	margin-top: -21px;
@@ -149,7 +149,12 @@ a:hover{
 
 
 
+#about{
+	background-color: transparent;
+	font-family: castelar;
+	padding: 5px;
+	border: dashed 2px;
+	margin:5px 20px 0px 20px;
 
-
-
+}
 
