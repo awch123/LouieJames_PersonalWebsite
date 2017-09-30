@@ -162,3 +162,8 @@ a:hover{
 	text-align: center;
 
 }
+
+#pin{
+	display: inline;
+	margin-bottom: 10px;
+}
