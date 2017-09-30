@@ -151,7 +151,7 @@ a:hover{
 
 #about{
 	background-color: transparent;
-	font-family: castelar;
+	font-family: tahoma;
 	padding: 5px;
 	border: solid 2px;
 	margin:3px 20px 0px 20px;
@@ -164,6 +164,7 @@ a:hover{
 }
 
 #pin{
+	
 	display: inline;
 	margin-bottom: 10px;
 }
