@@ -164,7 +164,8 @@ a:hover{
 }
 
 #pin{
-	
+	font-size: 20px;
+	font-family: tahoma;
 	display: inline;
 	margin-bottom: 10px;
 }
