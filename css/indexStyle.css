@@ -7,6 +7,7 @@ body{
 	background-color: 5f5f5f;
 	margin: 21px 80px 0px 80px;	
 	height: 3000px;
+		
 }
 
 #prof{
@@ -158,6 +159,8 @@ a:hover{
 	text-align: center;
 	
 }
+
+
 #about.p{
 	text-align: center;
 
@@ -182,4 +185,15 @@ a:hover{
 #pin1 {
 	margin-left: 30px;
 	margin-right: 10px;
+}
+
+#gaming{
+	display: inline;
+	font-family: tahoma;
+	font-size: 35px;
+}
+
+#gaming1{
+	margin-left: 30px;
+	margin-right: 30px;
 }
