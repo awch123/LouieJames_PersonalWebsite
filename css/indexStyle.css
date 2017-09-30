@@ -154,13 +154,19 @@ a:hover{
 	font-family: tahoma;
 	padding: 5px;
 	border: solid 2px;
-	margin:3px 20px 0px 20px;
+	margin:3px 40px 0px 40px;
 	text-align: center;
-
+	
 }
 #about.p{
 	text-align: center;
 
+}
+
+
+
+#me{
+	letter-spacing: 5px;
 }
 
 #pin{
