@@ -167,5 +167,13 @@ a:hover{
 	font-size: 20px;
 	font-family: tahoma;
 	display: inline;
-	margin-bottom: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+#pin1 {
+	margin-left: 30px;
+	margin-right: 10px;
 }
