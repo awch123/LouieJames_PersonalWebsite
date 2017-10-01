@@ -6,15 +6,15 @@ body{
 #main{
 	background-color: 5f5f5f;
 	margin: 21px 80px 0px 80px;	
-	height: 3000px;
+	height: 750px;
 		
 }
 
 #prof{
-	border-radius: 50%;
+	border-radius: 60%;
 	position: absolute;
 	z-index: 1;
-	bottom: 139px;
+	bottom: 156px;
 }
 
 
