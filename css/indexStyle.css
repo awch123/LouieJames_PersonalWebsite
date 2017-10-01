@@ -212,11 +212,13 @@ a:hover{
 	font-family: tahoma;
 	padding: 5px;
 	border: solid 2px;
-	margin:3px 40px 0px 40px;
+	margin:3px 200px 0px 200px;
 	text-align: center;
 }
 
 #steam{
+	text-align: center;
 	font-family: tahoma;
-	font-size: 33px;
+	font-size: 30px;
+	text-decoration: strong;
 }
