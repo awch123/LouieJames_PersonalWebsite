@@ -223,3 +223,14 @@ a:hover{
 	text-decoration: strong;
 }
 
+a:link #steam{
+	color: black;
+	test-decoration: none;
+
+}
+
+a:hover #steam {
+
+	color: red;
+
+}
