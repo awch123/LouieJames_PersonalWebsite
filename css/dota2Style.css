@@ -69,7 +69,7 @@ a:hover{
 
 .slideshow-container {
   max-width: 1111px;
-  
+  top: 13px;
   position: relative;
   margin: auto;
 }
