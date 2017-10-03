@@ -9,11 +9,25 @@
 
 <body>
 	
-		<ul id="header">
-			<li id="headerli"><a href="index.html"> Home </a></li>
-			<li id="headerli"><a href="#about"> About me </a></li>
-			<li id="headerli"><a href="#gamer"> Game is Life </a></li>	
-		</ul>
+		<div id="header">
+		<a class="dropbtn" id="special" href="index.html">Home</a>
+		
+		<div class="dropdown">
+			<button class="dropbtn"><a href="#prof">About me</a></button>
+				<div class="dropdown-content">
+					<a href="#about">Personal Info</a>
+					<a href="#skillz">Skill's Info</a>
+				</div>
+		</div>
+		
+		<div class="dropdown">
+			<button class="dropbtn"><a href="#gamer">Games is Life</a></button>
+				<div class="dropdown-content">
+					<a href="./pages/csgoPage.html">CSgo</a>
+					<a href="./pages/dota2Page.html">Dota2</a>
+				</div>
+		</div>
+	</div>
 	
 	<div id="main">
 	
@@ -103,7 +117,7 @@
 		
 			</br></br></br>
 			
-		<div id="games">
+		<div id="skillz">
 			
 			<center><table border="0"></center>
 					<tr>
@@ -112,7 +126,24 @@
 
 					<tr>
 						<td>
-							<img id="gaming1" src="./images/wise.jpg"height="100" width="100" type="images/icon" ><p id="gaming" >"Kaya kung mag attendance kahit wala ako sa classroom"</p>
+							<ul class="skill">
+								<li class="skill">Photoshop </li>
+								<li class="skill">Video Editing </li>
+								<li class="skill">Microsoft Word </li>
+								<li class="skill">Microsoft Powerpoint </li>
+								<li class="skill">Proficient in English</li>
+								<li class="skill">Can work with minimal supervision</li>
+							</ul>
+						</td>
+						<td>
+							<ul class="skill">
+								<li class="skill">Microsoft Excel </li>
+								<li class="skill">Hard Worker</li>
+								<li class="skill">Good Listener</li>
+								<li class="skill">Audio Editor</li>
+								<li class="skill">Good Speaker</li>
+								<li class="skill">Can work with team/solo</li>
+							</ul>
 						</td>
 					</tr>
 					</table>
