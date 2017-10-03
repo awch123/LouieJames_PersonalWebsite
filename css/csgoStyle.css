@@ -144,6 +144,11 @@ a:hover{
   to {opacity: 1}
 }
 
+#why{
+	margin:3px 40px 0px 40px;
+	
+}
+
 #cut{
 	width: 100%;
 	background-color: 333333;
